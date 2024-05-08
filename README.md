@@ -68,9 +68,10 @@ https://github.com/Fankholor-sudo/MadeEasy/assets/54154030/82057f80-56b7-4d0d-89
    * Create the tables mc_user_artisan, mc_user_rating, mc_user_rating, 
      mc_user_comments.
    * Update the backend API base URL in the Android app code.
-4. Configure API Endpoints:
+   * Make sure you checkout the WIKI, for table queries.
+3. Configure API Endpoints:
    * In the Android app code, update the API endpoints to match your backend server.
-5. Run the App:
+4. Run the App:
    * Build and run the app on an Android emulator or a physical device.
      
   
