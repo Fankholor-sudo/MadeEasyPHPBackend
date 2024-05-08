@@ -24,10 +24,22 @@
 
 
 ### About The Project
-
-Welcome to the MadeEasy Android Studio project repository! MadeEasy is a remote artisan app designed to bridge the gap 
-between artisans and users seeking skilled professionals for various handwork tasks. 
-This mobile application is developed using Android Studio for the frontend, with PHP and MySQL serving as the backend technologies.
+Made Easy is an application that brings artisans with expertise in a particular field, and 
+individuals who need services from a particular field together.
+Whereby clients can search for artisans of their own interest, with skills the client is in need 
+of. A client can request services from one artisan at a time and an artisan can provide 
+services to one client at a time. 
+Every new artisan registers with their email address and creates their own password to 
+access their account. The artisan will disclose their skills, contact details, city which they 
+reside in and a picture of themselves. 
+Every new client registers with their email address and creates their own password to access
+their account. The clients will disclose their contact details, city which they reside in and a 
+picture of themselves.
+Clients are able to provide ratings and comments for the services provided by the respective 
+artisan. Artisans are also able to provide ratings and comments on the experience they had 
+in providing services to the respective client. Each rating along with its comment is made by 
+a client/artisan to an artisan/client. An artisan can get and make many ratings and 
+comments and a client and make and get many ratings and comments. 
 
 ### Video preview.
 
